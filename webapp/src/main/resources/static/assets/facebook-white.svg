@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="23px" viewBox="0 0 12 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="41" height="41"></rect>
+        <path d="M12,3.9984 L8.57208,3.9984 C8.16696,3.9984 7.71432,4.566 7.71432,5.3253 L7.71432,7.96107 L12,7.96107 L12,11.71773 L7.71432,11.71773 L7.71432,23 L3.6684,23 L3.6684,11.71824 L0,11.71824 L0,7.96158 L3.6684,7.96158 L3.6684,5.75 C3.6684,2.5793 5.73504,0 8.57208,0 L12,0 L12,3.9984 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sr_labs__microsite__webpage" transform="translate(-975.000000, -2525.000000)">
+            <g id="facebook" transform="translate(960.000000, 2516.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(15.000000, 9.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-30" stroke="none" fill="none"></g>
+                        <polygon id="Fill-29" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" points="-5 28 17 28 17 -5 -5 -5"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

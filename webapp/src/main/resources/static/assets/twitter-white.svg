@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="20px" viewBox="0 0 25 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>twitter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="41" height="41"></rect>
+        <path d="M25,2.3675 C24.081,2.7696 23.0919,3.0409 22.0541,3.1623 C23.1137,2.5378 23.9262,1.5487 24.3093,0.3687 C23.3182,0.9477 22.221,1.3678 21.0523,1.5946 C20.117,0.6135 18.7839,0 17.3086,0 C14.4764,0 12.18,2.2606 12.18,5.04921 C12.18,5.44437 12.2252,5.82954 12.313,6.19973 C8.0502,5.98891 4.2704,3.9791 1.7407,0.9242 C1.2991,1.6696 1.0464,2.5368 1.0464,3.4631 C1.0464,5.21457 1.9518,6.76025 3.3281,7.66548 C2.4877,7.63901 1.6965,7.4117 1.0048,7.03352 C1.0043,7.0545 1.0043,7.07599 1.0043,7.09747 C1.0043,9.54339 2.7724,11.58365 5.119,12.04826 C4.6886,12.16316 4.2354,12.22511 3.7675,12.22511 C3.4367,12.22511 3.1154,12.19364 2.8023,12.13419 C3.4554,14.13998 5.3493,15.60024 7.5934,15.64071 C5.8381,16.99505 3.627,17.80237 1.2235,17.80237 C0.8099,17.80237 0.4014,17.77839 0,17.73143 C2.2705,19.16471 4.9662,20 7.8624,20 C17.297,20 22.4555,12.30654 22.4555,5.63421 C22.4555,5.4154 22.4509,5.19708 22.4413,4.9803 C23.4431,4.2699 24.3129,3.3801 25,2.3675 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sr_labs__microsite__webpage" transform="translate(-1009.000000, -2527.000000)">
+            <g id="twitter" transform="translate(1001.000000, 2516.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(8.000000, 11.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-36" stroke="none" fill="none"></g>
+                        <polygon id="Fill-35" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" points="-5 25 30 25 30 -5 -5 -5"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
